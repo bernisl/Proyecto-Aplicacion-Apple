@@ -1,0 +1,8 @@
+# Xcode local settings and generated outputs
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+.DS_Store
+*.swp
+# Don't ignore Package.resolved if added later
